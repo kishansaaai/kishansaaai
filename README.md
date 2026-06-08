@@ -1,4 +1,6 @@
-# Hi, I'm Sai Kishan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sai+Kishan;CS+Undergrad+%40+PES+University;Backend+%7C+Systems+%7C+Developer+Tools;Currently+learning+Machine+Learning" alt="Typing SVG" />
+</p>
 
 CS undergrad at PES University (2024–2028) passionate about building systems software, backend infrastructure, and developer tools. Currently interning at Zenvio Mobility, working on backend services for an EV fleet management platform.
 
@@ -44,6 +46,19 @@ Backend:     Node.js, Express, Flask, FastAPI, REST APIs, MongoDB, MySQL
 ML:          Scikit-learn, Pandas, NumPy, Matplotlib, TF-IDF, NLP
 Tools:       Git, GitHub Actions, Docker, Streamlit, Jupyter
 ```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishansaaai&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishansaaai&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kishansaaai&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
