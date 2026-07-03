@@ -147,26 +147,10 @@ const saiKishan = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishansaaai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishansaaai&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kishansaaai/kishansaaai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
